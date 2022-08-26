@@ -1,0 +1,91 @@
+atlantis images/atlantis0.bmp 255 255 255 0
+atlantis images/atlantis1.bmp 
+atlantis images/atlantis2.bmp 
+atlantis images/atlantis3.bmp 
+atlantis images/atlantis4.bmp 
+atlantis images/atlantis5.bmp
+atlantis images/atlantis6.bmp
+crab images/crabout01.bmp 255 255 255 128
+crab images/crabout02.bmp 255 255 255 128
+crab images/crabout03.bmp 255 255 255 128
+crab images/crabout04.bmp 255 255 255 128
+crab images/crabout05.bmp 255 255 255 128
+crab images/crabout06.bmp 255 255 255 128
+crab images/crabout07.bmp 255 255 255 128
+crab images/crabout08.bmp 255 255 255 128
+crab images/crabout09.bmp 255 255 255 128
+crab images/crabout10.bmp 255 255 255 128
+crab images/crabout11.bmp 255 255 255 128
+crab images/crabout11.bmp 255 255 255 128
+sea images/sea.bmp 255 255 255 0
+octo images/s1.bmp 255 255 255 0
+octo images/s2.bmp 255 255 255 0
+octo images/s3.bmp 255 255 255 0
+octo images/s4.bmp 255 255 255 0
+octo images/s5.bmp 255 255 255 0
+obstacle images/rock.bmp
+fish images/fish.bmp 255 255 255 0
+quake images/quake1.bmp 255 255 255 0
+quake images/quake2.bmp 255 255 255 0
+quake images/quake3.bmp 255 255 255 0
+quake images/quake4.bmp 255 255 255 0
+quake images/quake5.bmp 255 255 255 0
+quake images/quake6.bmp 255 255 255 0
+bubbles images/bubbles.bmp
+seaGrass images/Seaweed1.bmp 255 255 255 0
+background_default images/none.bmp
+blackHole images/blackhole0.bmp 
+blackHole images/blackhole1.bmp
+blackHole images/blackhole2.bmp
+blackHole images/blackhole3.bmp
+blackHole images/blackhole4.bmp
+blackHole images/blackhole5.bmp
+blackHole images/blackhole6.bmp
+blackHole images/blackhole7.bmp
+blackHole images/blackhole8.bmp
+blackHole images/blackhole9.bmp
+gastly images/gastly00.bmp
+gastly images/gastly01.bmp
+gastly images/gastly02.bmp
+gastly images/gastly03.bmp
+gastly images/gastly04.bmp
+gastly images/gastly05.bmp
+gastly images/gastly06.bmp
+gastly images/gastly07.bmp
+gastly images/gastly08.bmp
+gastly images/gastly09.bmp
+gastly images/gastly10.bmp
+gastly images/gastly11.bmp
+gastly images/gastly12.bmp
+gastly images/gastly13.bmp
+gastly images/gastly14.bmp
+gastly images/gastly15.bmp
+ultraball images/ultraball.png
+gengar images/gengar00.bmp
+gengar images/gengar01.bmp
+gengar images/gengar02.bmp
+gengar images/gengar03.bmp
+gengar images/gengar04.bmp
+gengar images/gengar05.bmp
+gengar images/gengar06.bmp
+gengar images/gengar07.bmp
+gengar images/gengar08.bmp
+gengar images/gengar09.bmp
+gengar images/gengar10.bmp
+gengar images/gengar11.bmp
+gengar images/gengar12.bmp
+gengar images/gengar13.bmp
+gengar images/gengar14.bmp
+gengar images/gengar15.bmp
+gengar images/gengar16.bmp
+gengar images/gengar17.bmp
+gengar images/gengar18.bmp
+gengar images/gengar19.bmp
+gengar images/gengar20.bmp
+gengar images/gengar21.bmp
+gengar images/gengar22.bmp
+gengar images/gengar23.bmp
+gengar images/gengar24.bmp
+gengar images/gengar25.bmp
+gengar images/gengar26.bmp
+blackHoleBackground images/blackHoleBackground.bmp
